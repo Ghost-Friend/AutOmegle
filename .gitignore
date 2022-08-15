@@ -1,2 +1,5 @@
-personalDist/
 .DS_Store
+devNotes.txt
+test.py
+data.txt
+personalDist.py

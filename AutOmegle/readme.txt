@@ -16,3 +16,9 @@ USAGE
 - Enter your interests on Omegle, continue to the first chat, end it, run the script, and switch back to the browser! The program will send your message to every match you connect to either until the failsafe is activated or the specified number of hours has elapsed.
 
 Note: This program is very simple and does not have the ability to bypass temporary bans or captcha codes.
+
+
+Changelog:
+
+1.2
+Replaced pyautogui.write() with copy/paste function using pyperclip, much faster match turnover. pyautogui hotkey function not working with macOS command key, will fix when that function is repaired, for now pasting with manual hotkey. 
